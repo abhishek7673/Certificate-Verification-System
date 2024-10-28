@@ -12,7 +12,6 @@ The Certificate Verification System is designed to streamline the process of iss
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Vivek01233210/Certify-App
     ```
 3. Install dependencies run the command at the root of the project to install all the dependencies:
     ```sh
